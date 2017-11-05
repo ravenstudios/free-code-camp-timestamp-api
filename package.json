@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravenstudios/timestamp.git"
+    "url": "git+https://github.com/ravenstudios/free-code-camp-timestamp-api.git"
   },
   "author": "Ravenstudios",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ravenstudios/timestamp/issues"
+    "url": "https://github.com/ravenstudios/free-code-camp-timestamp-api/issues"
   },
-  "homepage": "https://github.com/ravenstudios/timestamp#readme",
+  "homepage": "https://github.com/ravenstudios/free-code-camp-timestamp-api#readme",
   "dependencies": {
     "express": "^4.16.2"
   }
